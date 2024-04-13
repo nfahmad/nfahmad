@@ -4,4 +4,4 @@ I am Nabeel Ahmad, an Honors student at the University of Kansas pursuing a degr
 
 # Languages
 
-[![My Languages](https://skillicons.dev/icons?i=py,c,cpp,js,html,php)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=py,c,cpp,haskell,js,html,php)](https://skillicons.dev)
